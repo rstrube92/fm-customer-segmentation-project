@@ -62,4 +62,4 @@ The following strategies are tailored to maximize the return on investment (ROI)
 
 The complete code, data cleaning steps, methodology, and all outputs are available in the linked Jupyter Notebook:
 
-➡️ **[rfm\_analysis.ipynb](rfm_analysis.ipynb)**
+➡️ **[rfm\_analysis.ipynb](RFM_Portfolio_Project.ipynb)**

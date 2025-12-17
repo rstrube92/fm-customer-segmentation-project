@@ -36,8 +36,7 @@ The customer base is primarily split between dormant and new customers, with a s
 
 ### Customer Segment Visualization
 
-
-
+<img width="989" height="590" alt="image" src="https://github.com/user-attachments/assets/6cd34b32-2a43-4ac4-90ce-933367bc86cf" />
 ---
 
 ## 💡 Actionable Business Recommendations
